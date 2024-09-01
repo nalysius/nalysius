@@ -1,4 +1,4 @@
-# Hi I'm Anthony 👋
+# Hi, I'm Anthony 👋
 
 After 6 years working as a Rust and PHP developer, I've decided to pursue a
 career in cybersecurity in 2022. Today I'm a freelance, and I combine
